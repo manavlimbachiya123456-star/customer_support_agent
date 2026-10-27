@@ -1,0 +1,6 @@
+{
+  "refund_window_days": 30,
+  "delay_grace_days": 3,
+  "return_window_days": 30,
+  "max_retry_attempts": 3
+}
